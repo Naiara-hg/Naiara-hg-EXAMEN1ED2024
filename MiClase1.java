@@ -8,6 +8,8 @@ public class MiClase1
             System.out.prinln("¿Cómo estás?");
             System.out.prinln("Cambio de Marcelo");
             System.out.prinln("Modifica Nayara");
+            System.out.prinln("Otro cambio de Nayara");
+
         }
     }
 }
